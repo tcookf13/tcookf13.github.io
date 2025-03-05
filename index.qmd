@@ -8,9 +8,9 @@ about:
     image-width: 17em
     links:
       -text: LinkedIn
-        href: 
+        href: https://www.linkedin.com/in/taylor-cook-315309112/
       -text: GitHub
-        href:
+        href: https://github.com/tcookf13
       -text: Email
         href: mailto:tcook.f13@gmail.com
       
