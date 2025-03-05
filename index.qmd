@@ -1,11 +1,22 @@
 ---
-title: "tcookf13.github.io"
+title: "Taylor Cook"
+image: "IMG_5158.JPG"
+toc: false
+about:
+    template: jolla
+    image-shape: round
+    image-width: 17em
+    links:
+      -text: LinkedIn
+        href: 
+      -text: GitHub
+        href:
+      -text: Email
+        href: mailto:tcook.f13@gmail.com
+      
 ---
 
-This is a Quarto website.
+Hi! I'm Taylor cook. I'm a Masters of Environmental Science & Management student at The University of California, Bren School. Professionally, I aspire to contribute....
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Outside of work, I love to surf, hike... 
 
-```{r}
-1 + 1
-```
