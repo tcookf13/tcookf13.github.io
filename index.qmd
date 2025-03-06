@@ -7,11 +7,14 @@ about:
     image-shape: round
     image-width: 17em
     links:
-      - text: "LinkedIn"
+      - icon: linkedin
+        text: "LinkedIn"
         url: "https://www.linkedin.com/in/taylor-cook-315309112/"
-      - text: GitHub
+      - icon: github
+        text: GitHub
         url: https://github.com/tcookf13
-      - text: Email
+      - icon: envelope
+        text: Email
         url: mailto:tcook.f13@gmail.com
       
 ---
