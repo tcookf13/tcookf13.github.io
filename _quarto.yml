@@ -5,19 +5,27 @@ project:
 website:
   title: "Taylor Cook"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
-      - resources.qmd
-      
+      - href: resources.qmd
+        text: Portfolio
+      - href: CookTaylor_Resume.pdf
+        text: CV
+        target: _blank
+  page-footer: 
+    background: light # or dark
+    left: "© 2025 Taylor Cook"
+    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/tcookf13/tcookf13.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
+    
 format:
   html:
-    theme: 
-      light: flatly
-      dark: darkly
-    css: styles.css
+    theme:
+      - flatly
+      - styles.scss
+    mainfont: Funnel Display 
     toc: true
     page-layout: full
 
