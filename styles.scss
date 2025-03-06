@@ -3,6 +3,10 @@
 //import fonts
 @import url('https://fonts.googleapis.com/css2?family=Funnel+Display:wght@300..800&family=Sen:wght@400..800&display=swap');
 
+// Fonts
+$sen: "Sen", sans-serif;
+
+
 // Colors
 $dark-green: #858E79;
 $light-green: #D1D9CE;
@@ -24,3 +28,11 @@ $link-color: $light-blue; // hyperlinks
 // Inline code
 $code-bg: $cream; // inline code background color
 $code-color: $purple; // inline code text color
+
+
+/*-- scss:rules --*/
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $sen;
+  color: $light-blue;
+}
